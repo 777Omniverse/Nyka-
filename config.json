@@ -26,7 +26,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Levi Ackerman",
-    "PREFIX": "+",
+    "PREFIX": ".",
     "OTHERBOT": [
         ""
     ],
